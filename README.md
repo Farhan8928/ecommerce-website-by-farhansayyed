@@ -4,6 +4,8 @@
 ## Overview
 This project is a full-stack e-commerce website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a platform to browse, search, and purchase products, while also offering an admin panel for managing products and categories.
 
+## Project Video Link: https://www.loom.com/share/6c104cce0ab3401e9b0ccae82e5df253?sid=ccabfa53-d29a-4224-be33-8e55ea469794
+
 ## Features
 - **User Authentication:** Secure registration, login, and logout functionality for users.
 - **Admin Panel:** Dedicated admin interface for product and category management.
